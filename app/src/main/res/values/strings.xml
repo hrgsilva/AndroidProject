@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SynergiaApp</string>
+    <string name="user">User :</string>
+    <string name="password">Password :</string>
+    <string name="buscar">Buscar</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="configurações">Configurações</string>
+    <string name="adicionar">adicionar</string>
+    <string name="sair">Sair</string>
+    <string name="curriculos">currículos</string>
+    <string name="configuracao">Configuração</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="voltar">voltar</string>
+    <string name="salvar">salvar</string>
+    <string name="data_nascimento">Data Nascimento:</string>
+    <string name="feminino">Feminino</string>
+    <string name="masculino">Masculino</string>
+</resources>
